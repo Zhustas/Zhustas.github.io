@@ -6,15 +6,8 @@
     <description>Recent content on Justo svetainė</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Sep 2024 23:48:36 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2024 20:25:51 +0300</lastBuildDate>
     <atom:link href="https://zhustas.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Projektai</title>
-      <link>https://zhustas.github.io/menu/projects/</link>
-      <pubDate>Sat, 21 Sep 2024 23:48:36 +0300</pubDate>
-      <guid>https://zhustas.github.io/menu/projects/</guid>
-      <description>&lt;p&gt;Mano atlikti projektai:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Svetainė naudojant Svelte;&lt;/li&gt;&#xA;&lt;li&gt;Parduotuvė su Java kalba;&lt;/li&gt;&#xA;&lt;li&gt;Įvairūs žaidimai su C++, Python kalbomis;&lt;/li&gt;&#xA;&lt;li&gt;&amp;hellip;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
     <item>
       <title>Pagrindinis turinys</title>
       <link>https://zhustas.github.io/posts/main_content/</link>
