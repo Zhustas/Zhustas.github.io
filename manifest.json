@@ -1,0 +1,15 @@
+{
+  "name": "Justo svetainė",
+  "short_name": "Justo svetainė",
+  "start_url": "/zhustas.github.io/",
+  "scope": "/zhustas.github.io/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/zhustas.github.io/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
