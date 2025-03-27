@@ -1,0 +1,24 @@
+{
+    "name": "zhustas.github.io",
+    "version": "1.0.0",
+    "description": "Personal page",
+    "homepage": "https://github.com/Zhustas/Zhustas.github.io",
+    "bugs": {
+        "url": "https://github.com/Zhustas/Zhustas.github.io/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Zhustas/Zhustas.github.io.git"
+    },
+    "license": "ISC",
+    "author": "",
+    "type": "commonjs",
+    "main": "index.js",
+    "scripts": {
+        "dev": "vite",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "vite": "^6.2.3"
+    }
+}
